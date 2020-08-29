@@ -1,0 +1,17 @@
+{
+    "name": "servo-microbit",
+    "version": "0.0.0",
+    "description": "Extension for sbcshop PCA8965 Servo Driver",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "servomotor.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
